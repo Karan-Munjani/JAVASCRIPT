@@ -13,4 +13,3 @@ console.log(string.slice(k,k+n));
 string=string.slice(k,k+n);
 
 console.log(string);
-string.c
