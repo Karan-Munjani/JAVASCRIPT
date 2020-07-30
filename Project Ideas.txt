@@ -1,0 +1,18 @@
+How to learn JavaScript fast?
+One of the best ways to learn JavaScript quickly is to actually do a JavaScript-based project. Here are some of the interesting project ideas on JavaScript:
+
+A simple Calculator with operations like addition, subtraction, multiplication, division, etc.
+e-Commerce billing calculator.
+A bill splitting system that helps in dividing the bills between friends.
+A basic quiz game.
+A simple search box powered by JavaScript.
+Form a validator that makes sure that no incorrect input is provided in the form.
+JavaScript-powered comment box on a blog.
+EchoBot - a bot that echoes back what you just typed to it.
+A simple todo list application that helps you manage your tasks.
+Tic-tac-toe game using JavaScript, HTML, and CSS.
+Photo gallery.
+Your own interactive home page.
+A simple document statistics generator using JavaScript - you could show statistics like word count, alphabet count, word frequency, paragraph count, etc.
+JavaScript-based alarm clock/timer.
+JavaScript-based die - which can generate numbers from 1 to 6.
